@@ -1,10 +1,8 @@
-# js-lab-36
-### Lab36 Conditiona: Refractor5
-- จงเขียนโค้ดเพื่อรับคะแนนมาคำนวณเกรด
-- ถ้าคะแนน มากกว่าเท่ากับ 80 ได้ A
-- ถ้าคะแนน อยู่ระหว่าง 70 - 79 ได้ B
-- ถ้าคะแนน อยู่ระหว่าง 60 - 69 ได้ C
-- ถ้าคะแนน อยู่ระหว่าง 50 - 59 ได้ D
-- ถ้าคะแนน น้อยกว่า 50 ได้ F
+# js-lab-37
+### Lab37 Conditiona: Guess Result12
+โค้ดด้านล่างทำงานได้หรือไม่ 
 
-#### ให้เขียนโค้ดในรูปแบบ Ternary Operators
+```JavaScript
+let company = prompt('Which company created JavaScript?');
+company == 'Netscape' ? alert('Right!') : alert('Wrong.');
+```
